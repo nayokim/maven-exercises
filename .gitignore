@@ -6,6 +6,6 @@
 *.iml
 
 # Compiled output
-*.class
+/.class
 out/*
-target/
+*/target/**
