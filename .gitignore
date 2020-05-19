@@ -2,7 +2,7 @@
 .DS_Store
 
 # IntelliJ
-../.idea/compiler.xml
+.idea/*
 *.iml
 
 # Compiled output
